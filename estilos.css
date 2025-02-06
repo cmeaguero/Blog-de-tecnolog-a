@@ -2,6 +2,16 @@
   margin 0;
   padding: 0;
 }
+header{
+  display: flex;
+  justify-content: space-around
+}
+.navegador{
+  background-color: rgba(1, 36, 66, 0.729);
+}
+.navegador a{
+  color: aliceblue;
+}
 footer{
   background-color: rgba(1, 36, 66, 0.729);
   display: flex;
